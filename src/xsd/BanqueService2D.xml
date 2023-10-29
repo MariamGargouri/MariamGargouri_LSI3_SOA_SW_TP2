@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BanqueService SYSTEM "BanqueService.dtd" >
+<BanqueService>
+  <conversion>
+    <montant>montant</montant>
+  </conversion>
+  <getCompte>
+    <Compte>
+      <code>code</code>
+      <solde>solde</solde>
+      <date>date</date>
+    </Compte>
+  </getCompte>
+  <getComptes>
+    <Compte>
+      <code>code</code>
+      <solde>solde</solde>
+      <date>date</date>
+    </Compte>
+  </getComptes>
+</BanqueService>
